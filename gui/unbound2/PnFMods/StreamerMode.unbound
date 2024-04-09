@@ -1,0 +1,1 @@
+(def constant TT_STREAMERMODE_INSTALLED true) #for modconfig
